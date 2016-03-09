@@ -1,1 +1,1 @@
-THis is a slider gallery example.
+A basic image gallery w/ thumbnails.
