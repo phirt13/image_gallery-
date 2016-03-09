@@ -1,0 +1,42 @@
+/*Not Relevant to other Apps*/
+
+body {
+  padding: 2em 0;
+}
+h1 {
+  font-family: Arial;
+  font-size: 2em;
+  text-align: center;
+}
+
+/*------------------------------------------*/
+
+.gallery-main--section {
+  display: block;
+  margin: 0 auto;
+  padding: 2em 0;
+}
+
+.gallery-main--image {
+  display: block;
+  margin: 0 auto;
+}
+
+.gallery-thumbnail--section {
+  margin: 0 auto;
+  text-align: center;
+}
+.gallery-thumbnail {
+  display: inline-block;
+  padding: 0;
+}
+
+.gallery-thumbnail--image {
+  height: 100px;
+  border: .3em solid transparent;
+  transition: all .4s linear;
+}
+
+.gallery-thumbnail--image:hover {
+  border: .3em solid #d7c192;
+}
